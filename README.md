@@ -1,2 +1,2 @@
-# ChurnVigil
-ChurnVigil: Unveiling Customer Churn Patterns for CommLink Telecom
+# ChurnRadar
+ChurnRadar: Unveiling Customer Churn Patterns with Predictive Insights
